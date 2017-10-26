@@ -1,11 +1,10 @@
 # react-chrome-extension
 
-**To begin the development, run `npm start`.**
+### Install instructions :
+- `npm istall`
+- to begin the development, run `npm start`.
+- to create a production bundle, use `npm run build`.
 
-**To create a production bundle, use `npm run build`.**
-
-### Install npm module :
-`npm istall`
 
 ### Available Scripts
 
